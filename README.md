@@ -9,7 +9,6 @@ Implements DCSA framework with clustering + specialised ML models.
 
 Benchmarks against baseline models:
 Neural Networks
-Gaussian Process Regression (GPR)
 Support Vector Regression (SVR)
 Random Forest (RF)
 Ridge Regression
@@ -20,4 +19,5 @@ Exports results and comparisons to Excel for easy analysis.
 
 Results:
 DCSA consistently outperforms baseline ML models in R² and RMSE, demonstrating improved generalisation for unseen test data.
+
 
